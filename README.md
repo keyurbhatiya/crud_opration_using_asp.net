@@ -27,9 +27,9 @@ This is a simple ASP.NET Web Forms project demonstrating CRUD (Create, Read, Upd
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/aspnet-crud-app.git
+git clone https://github.com/keyurbhatiya/crud_opration_using_asp.net.git
 cd aspnet-crud-app
-```
+
 
 ### 2. Database Setup
 The project uses SQL Server LocalDB for storing data.
@@ -77,4 +77,4 @@ The project uses SQL Server LocalDB for storing data.
 
 ## Error Handling
 Error handling is performed in each button click event. If an error occurs, an alert message will be displayed.
-
+```
