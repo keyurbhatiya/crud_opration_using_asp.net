@@ -78,6 +78,5 @@ Each button click is wrapped in a try-catch block. If an error occurs, an alert 
 ## Contact
 - **Author**: Keyur Bhatiya
 - **GitHub**: [keyurbhatiya](https://github.com/keyurbhatiya)
-```
 
 
