@@ -80,4 +80,4 @@ Each button click is wrapped in a try-catch block. If an error occurs, an alert 
 - **GitHub**: [keyurbhatiya](https://github.com/keyurbhatiya)
 ```
 
-This version simplifies some sections, optimizes formatting, and eliminates redundant details while keeping the essential information.
+
